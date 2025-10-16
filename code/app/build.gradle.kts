@@ -38,7 +38,7 @@ android {
 
 dependencies {
 
-    implementation(files("C:/Users/jrrap/AppData/Local/Android/Sdk/platforms/android-35/android.jar"))
+    //implementation(files("C:/Users/jrrap/AppData/Local/Android/Sdk/platforms/android-35/android.jar"))
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
