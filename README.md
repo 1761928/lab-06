@@ -15,3 +15,4 @@ N/A
 
 ## Notes 
 Path to Javadocs: lab-06/code/app/javadocs/
+https://github.com/1761928/lab-06/tree/main/code/app/javadocs
