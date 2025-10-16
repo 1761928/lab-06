@@ -12,3 +12,6 @@ N/A
 ## Verbal Collaboration
 
 N/A
+
+## Notes 
+Path to Javadocs: lab-06/code/app/javadocs/
